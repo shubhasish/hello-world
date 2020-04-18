@@ -1,1 +1,2 @@
-echo "Hello $1"
+read -p "Input your name: " name
+echo "Hello $name"
